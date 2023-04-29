@@ -1,10 +1,10 @@
-<div>
-  <form>
-    <div>
-      <div class="flex flex-col">
-        <input type="radio" id="admin" /><label for="admin">Admin</label>
-        <input type="radio" id="employee" /><label for="employee"
-          >Employee</label
+<div class="h-screen flex items-center">
+  <form class="w-11/12 mx-auto">
+    <div class="border-solid border-2 border-red-500 flex flex-col gap-4">
+      <div class="flex flex-col mx-auto">
+        <label for="admin"><input type="radio" id="admin" />Admin</label>
+        <label for="employee"
+          ><input type="radio" id="employee" />Employee</label
         >
       </div>
 
