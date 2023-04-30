@@ -1,4 +1,4 @@
-<div class="h-screen flex items-center">
+<div class="max-h-screen flex items-center">
   <form class="w-11/12 mx-auto">
     <div class="border-solid border-2 border-red-500 flex flex-col gap-4">
       <div class="flex flex-col mx-auto">
